@@ -27,19 +27,19 @@ Nigerian **Ajo** (also called *Esusu* or *Adashe*) is a traditional, trust-based
 ## Screenshots
 
 ### Home
-![Home](screenshots/Home.png)
+![Home](screenshot/Home.png)
 
 ### About
-![About](screenshots/About.png)
+![About](screenshot/About.png)
 
 ### Login
-![Login](screenshots/Login.png)
+![Login](screenshot/Login.png)
 
 ### Properties
-![Properties](screenshots/Properties.png)
+![Properties](screenshot/Properties.png)
 
 ### Terms & Service
-![Terms & Service](screenshots/Terms&Service.png)
+![Terms & Service](screenshot/Terms&Service.png)
 
 ## Requirements
 
