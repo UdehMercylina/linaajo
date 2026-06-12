@@ -1,0 +1,20 @@
+# Sensitive configuration - never commit
+inc/config.php
+
+# Local environment files
+.env
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Duplicate files
+payout1.php
