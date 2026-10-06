@@ -68,3 +68,5 @@ Nigerian **Ajo** (also called *Esusu* or *Adashe*) is a traditional, trust-based
 - `inc/config.php` is excluded from version control — never commit it
 - All passwords are hashed with `password_hash()` (bcrypt)
 - HTTPS redirect available in `.htaccess` — uncomment for production
+
+made with love
